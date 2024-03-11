@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
+```         
+Senior majoring in Biology at university of Massachusetts Amherst. Profecient in cell culture, cell biology, immunology, and microsocopy. 
 ```
+
+![](images/PictureOfMyself.jpg)
